@@ -1,5 +1,3 @@
 ## Co-piloto Empresarial
 
-Esta aplicação é uma alternativa para remover peso do gerenciamento de redes sociais, notificações, sugestões de promoções e entre outras muitas coisas.
-<br>
-Considere que é seu braço direito do seu negócio.
+Liberte tempo para se focar no que realmente importa. O Co-piloto Empresarial automatiza a gestão de redes sociais, notificações e promoções para que o seu negócio não pare de crescer. É o seu braço direito para o sucesso.
